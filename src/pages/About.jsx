@@ -1,5 +1,5 @@
 import SectionHeader from "../components/ui/SectionHeader";
-import virginiaTeranImage from "../assets/about/virginia-teran.png";
+import virginiaTeranImage from "../../Sobre_mi/about_me.png";
 
 export default function About() {
   return (
